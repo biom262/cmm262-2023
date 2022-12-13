@@ -2,7 +2,7 @@
 **University of California, San Diego (UCSD)**<br>
 **Winter 2023**
 
-![slack badge](https://img.shields.io/badge/Join%20Slack-blueviolet?style=for-the-badge&logo=slack) ![jupyterhub badge](https://img.shields.io/badge/Login%20to%20JupyterHub-grey?style=for-the-badge&logo=jupyter)
+![slack badge](https://img.shields.io/badge/Join%20Slack-blueviolet?style=for-the-badge&logo=slack) [![jupyterhub badge](https://img.shields.io/badge/Login%20to%20JupyterHub-grey?style=for-the-badge&logo=jupyter)](https://datahub.ucsd.edu/hub/login)
 
 **Need to add links to badges**
 
