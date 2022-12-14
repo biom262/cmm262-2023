@@ -28,6 +28,8 @@ As each module is taught by a separate guest lecturer, their contact information
 
 ## Where can I attend class?
 Classes are on Tuesday and Thursday from 9:00 AM - 12:00 PM PST. **Location?**
+![Screen Shot 2022-12-13 at 9 49 44 PM](https://user-images.githubusercontent.com/67065808/207517846-9740f244-e6e3-4bb0-a7a0-605b690b8013.png)
+
 
 ## Will lectures be recorded?
 You can find recordings of the lectures here: **Link to recordings**
