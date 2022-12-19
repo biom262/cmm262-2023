@@ -7,7 +7,7 @@
 **Need to add links to badges**
 
 ## What's this course about?
-CMM262/BIOM262 is designed to teach experimental and analytical approaches in modern genetics and genomics, from experimental design through data analysis in each of several topic areas. Students will come away with an intuition and basic understanding of the function of many computational tools, including their design limitations.
+CMM262/BIOM262 is designed to teach experimental and analytical approaches in modern genetics and genomics, from experimental design through data analysis in each of several topic areas. Students will come away with an intuition and basic understanding of the function of many computational tools, including their design limitations. Because this course includes computational workshops in almost every class session, it is **highly recommended** that students have previous experience in at least one of the programming languages we will use (Python, Bash, or R).
 
 > <b>Note:</b> 
 > This 4-unit course is a <i>core requirement</i> for students in the UCSD Genetics Training Program (http://genetics.ucsd.edu/).
@@ -32,15 +32,15 @@ Classes are on Tuesday and Thursday from 9:00 AM - 12:00 PM PST.
 
 
 ## Will lectures be recorded?
-You can find recordings of the lectures here: **Link to recordings**
+You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n?usp=sharing
 
 Slides for each lecture will be attached to a README.md file within each module folder.
 
 ## When are office hours?
-Office hours will take place on Zoom (**Link**) on Wednesdays at **TBD**.
+Office hours will take place via Zoom on Wednesdays at **TBD**. The zoom link will be shared internally with the class on our slack!
 
 ## Where can I access assignments?
-You should be able to find all of the assignments for this course on the UCSD Jupyterhub (Data Science) Platform if you're officially enrolled! The Jupyterhub can be found here: https://datahub.ucsd.edu/hub/login.
+You will be able to find all homework assignments for this course on the github, in the `hw` directory. Exams materials will be shared via Gradescope. You will also be able to find all of the necessary materials for each assignment on the UCSD Jupyterhub (Data Science) Platform if you're officially enrolled. The Jupyterhub can be found here: https://datahub.ucsd.edu/hub/login.
 
 ## How can I submit assignments?
 We'll be using Gradescope for submitting the homework assignments, as well as the midterm and final exams. If you have not been added to the course, to sign up for Gradescope, please follow the steps outlined below:
@@ -58,19 +58,24 @@ Homework will be assigned on Thursdays and due on the following Thursday through
 ### When's the midterm and final?
 * **Midterm Examination:**
   * Released on **TBD**
-  * Submission via GradeScope on **TBD** by 9:00 AM PST
+  * Submission via Gradescope on **TBD** by 9:00 AM PST
 * **Final Examination:**
   * Released on **TBD**
-  * Submission via GradeScope on **TBD** by 11:59 PM PST
+  * Submission via Gradescope on **TBD** by 11:59 PM PST
 
 ### What's the policy on late submissions?
-If for whatever reason you cannot deliver an assignment by its associated due date, you should report it at least a day before the due date.
+If for whatever reason you cannot deliver an assignment by its associated due date, you should inform the course instructor and TAs at least a day before the due date.
 
-* **First Late Submission:** 10% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late
-* **Subsequent Late Submissions:** 20% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late
+* **First Late Submission:** 10% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.
+* **Subsequent Late Submissions:** 20% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.
 
 > **Note:** We know that things happen!<br>
 > If you're experiencing a health or family emergency, please let the course instructors and teaching assistants know and we can work something out!
+
+### What's the policy on regrades?
+We recognize that small mistakes can sometimes propagate into large points deductions on assignments. When grading, we try to award partial credit whenever possible. However, for students that submit homework assignments with large mistakes, we will allow **one homework regrade** throughout the quarter for full credit back. 
+
+In order to qualify for a regrade, a student must have score below 70% on the assignment and they must resubmit within one week of when the assignment's grades were published. 
 
 ### What's the grading breakdown?
 | Percentage | Category |
@@ -84,7 +89,7 @@ If for whatever reason you cannot deliver an assignment by its associated due da
 Participation grades will be given based off of attendance, class participation, and number of weekly surveys completed.
 
 ### Class participation
-This course is designed to be highly interactive, so we greatly appreciate your participation and engagement with the material and class sessions. Specifically on zoom we encourage you to have your camera on and ask questions at any time by raising your hand or using the chat. We would like to show respect for all instructors, especially those volunteering their time to be guest lecturers, by engaging with their content.
+This course is designed to be highly interactive, so we greatly appreciate your participation and engagement with the material and class sessions. We would like to show respect for all instructors, especially those volunteering their time to be guest lecturers, by engaging with their content.
 
 ### Surveys
 Please fill out our survey at the end of each week. We really value your feedback! It helps us improve the modules each year.
@@ -96,8 +101,11 @@ Plagiarism will not be tolerated. Do not copy and paste answers from the interne
 
 Questions may be discussed with classmates but all work must be done individually.
 
-## What's the policy on emailing the course instructors and TAs?
-Please use office hours for questions regarding the homework assignments or take-home exams. It can be difficult, especially with code and software, to troubleshoot your problems via email. If you must email regarding a question, please do not expect an response to your email unless it is within working hours (Monday-Friday, 7:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
+## What's the policy on contacting the course instructors and TAs?
+Please use office hours for questions regarding the homework assignments or take-home exams. It can be difficult, especially with code and software, to troubleshoot your problems via email or slack. If you are unable to attend office hours, you are welcome to contact the TAs with your questions via email or slack. 
+
+> **Note:** Please make sure to include all TAs in your correspondences so we can ensure that you get help as soon as possible and that workload is distributed evenly among the TAs.<br>
+> If you must email or slack regarding a question, please do not expect an response unless it is within working hours (Monday-Friday, 8:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
 
 ## What's the course schedule?
 You can find the schedule of what we'll be covering day-by-day at the following Google Sheets link: **Link**
