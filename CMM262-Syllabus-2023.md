@@ -9,8 +9,7 @@
 ## What's this course about?
 CMM262/BIOM262 is designed to teach experimental and analytical approaches in modern genetics and genomics, from experimental design through data analysis in each of several topic areas. Students will come away with an intuition and basic understanding of the function of many computational tools, including their design limitations. Because this course includes computational workshops in almost every class session, it is **highly recommended** that students have previous experience in at least one of the programming languages we will use (Python, Bash, or R).
 
-> <b>Note:</b> 
-> This 4-unit course is a <i>core requirement</i> for students in the UCSD Genetics Training Program (http://genetics.ucsd.edu/).
+> :checkered_flag: <b>Note:</b> This 4-unit course is a _core requirement_ for students in the UCSD Genetics Training Program (http://genetics.ucsd.edu/).
              
 ## Who are the points of contact for this course?
 ### Teaching Staff
@@ -21,15 +20,26 @@ CMM262/BIOM262 is designed to teach experimental and analytical approaches in mo
 **Teaching Assistant 4:** Jeff Jaureguy (jjauregu@ucsd.edu)<br>
 
 ### Guest Lecturers
-As each module is taught by a separate guest lecturer, their contact information is provided in the syllabus table at the following Google Sheets link: **LINK**
+As each module is taught by a separate guest lecturer, their contact information is provided in the syllabus table at the following Google Sheets link:
 
-> **Note:** We will be using Slack as our primary method of communication for this course!<br>
-> You can join our group using the Slack button at the top of this page.
+https://docs.google.com/spreadsheets/d/1s-kjGqblJmk4cW-RhUNh_JHS_vk_nCP9CumVm6JsTSI
+
+> :warning: **Note:** We will be using Slack as our primary method of communication for this course!<br>You can join our group using the Slack button at the top of this page.
+
+## Course prerequisites
+Students should have at least an introductory knowledge of genetics, so classes in genetics are listed as official prerequisites for the course.
+
+In addition, it is **absolutely crucial** that students have at least some introductory experience with a programming language, preferably R or python. During the first week of class, we will review R, python, and bash. But after the first week, we'll immediately dive into complex usage of all three. Thus, the first week should serve more as a review than a comprehensive tutorial.
+
+Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to guage the level of programming experienced required. If you think you might need to refresh yourself, here are some resources:
+- [A book introducing R for data scientists](https://r4ds.had.co.nz/)
+- [A crash-course book for python](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf)
+- [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
 
 ## Where can I attend class?
-Classes are on Tuesday and Thursday from 9:00 AM - 12:00 PM PST. 
+Classes are on Tuesday and Thursday from 9:00 AM - 12:00 PM PST.
+<!-- Note: we should update this screenshot once we've decided on a date for the final and midterm -->
 ![Screen Shot 2022-12-13 at 9 49 44 PM](https://user-images.githubusercontent.com/67065808/207517846-9740f244-e6e3-4bb0-a7a0-605b690b8013.png)
-
 
 ## Will lectures be recorded?
 You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n?usp=sharing
@@ -75,15 +85,27 @@ If for whatever reason you cannot deliver an assignment by its associated due da
 ### What's the policy on regrades?
 We recognize that small mistakes can sometimes propagate into large points deductions on assignments. When grading, we try to award partial credit whenever possible. However, for students that submit homework assignments with large mistakes, we will allow **one homework regrade** throughout the quarter for full credit back. 
 
-In order to qualify for a regrade, a student must have score below 70% on the assignment and they must resubmit within one week of when the assignment's grades were published. 
+In order to qualify for a regrade, a student must score below 70% on the assignment and they must resubmit within one week of when the assignment's grades were published. 
 
 ### What's the grading breakdown?
-| Percentage | Category |
-|------------|----------|
-|    55%	   | Homework |
-|    20%	   | Midterm  |
-|    20%	   |  Final   |
-|    5%	     |Participation |
+| Percentage | Category      |
+|------------|---------------|
+|    55%	   | Homework      |
+|    20%	   | Midterm       |
+|    20%	   | Final         |
+|    5%	     | Participation |
+
+Letter grades are assigned based on the following scale:
+
+| Grade | Lowest Percentage |
+|-------|-------------------|
+| A+	  | 97%               |
+| A 	  | 93%               |
+| A-	  | 90%               |
+| B+	  | 87%               |
+| B 	  | 83%               |
+| B-	  | 80%               |
+| F 	  | 0%                |
 
 ## Participation
 Participation grades will be given based off of attendance, class participation, and number of weekly surveys completed.
@@ -104,11 +126,13 @@ Questions may be discussed with classmates but all work must be done individuall
 ## What's the policy on contacting the course instructors and TAs?
 Please use office hours for questions regarding the homework assignments or take-home exams. It can be difficult, especially with code and software, to troubleshoot your problems via email or slack. If you are unable to attend office hours, you are welcome to contact the TAs with your questions via email or slack. 
 
-> **Note:** Please make sure to include all TAs in your correspondences so we can ensure that you get help as soon as possible and that workload is distributed evenly among the TAs.<br>
+> :warning: **Note:** Please make sure to include _all_ TAs in your correspondences so we can ensure that you get help as soon as possible and that workload is distributed evenly among the TAs.<br>
 > If you must email or slack regarding a question, please do not expect an response unless it is within working hours (Monday-Friday, 8:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
 
 ## What's the course schedule?
-You can find the schedule of what we'll be covering day-by-day at the following Google Sheets link: **Link**
+You can find the schedule of what we'll be covering day-by-day at the following Google Sheets link:
+
+https://docs.google.com/spreadsheets/d/1s-kjGqblJmk4cW-RhUNh_JHS_vk_nCP9CumVm6JsTSI
 
 ## What if I can't log into DataHub?
 Try the suggestions in this doc and see if they help:
