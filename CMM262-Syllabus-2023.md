@@ -2,9 +2,8 @@
 **University of California, San Diego (UCSD)**<br>
 **Winter 2023**
 
-![slack badge](https://img.shields.io/badge/Join%20Slack-blueviolet?style=for-the-badge&logo=slack) [![jupyterhub badge](https://img.shields.io/badge/Login%20to%20JupyterHub-grey?style=for-the-badge&logo=jupyter)](https://datahub.ucsd.edu/hub/login)
-
-**Need to add links to badges**
+<!-- ![slack badge](https://img.shields.io/badge/Join%20Slack-blueviolet?style=for-the-badge&logo=slack) -->
+[![jupyterhub badge](https://img.shields.io/badge/Login%20to%20JupyterHub-grey?style=for-the-badge&logo=jupyter)](https://datahub.ucsd.edu/hub/login)
 
 ## What's this course about?
 CMM262/BIOM262 is designed to teach experimental and analytical approaches in modern genetics and genomics, from experimental design through data analysis in each of several topic areas. Students will come away with an intuition and basic understanding of the function of many computational tools, including their design limitations. Because this course includes computational workshops in almost every class session, it is **highly recommended** that students have previous experience in at least one of the programming languages we will use (Python, Bash, or R).
@@ -31,7 +30,7 @@ Students should have at least an introductory knowledge of genetics, so classes 
 
 In addition, it is **absolutely crucial** that students have at least some introductory experience with a programming language, preferably R or python. During the first week of class, we will review R, python, and bash. But after the first week, we'll immediately dive into complex usage of all three. Thus, the first week should serve more as a review than a comprehensive tutorial.
 
-Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to guage the level of programming experienced required. If you think you might need to refresh yourself, here are some resources:
+Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to gauge the level of programming experienced required. If you think you might need to refresh yourself, here are some resources:
 - [A book introducing R for data scientists](https://r4ds.had.co.nz/)
 - [A crash-course book for python](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf)
 - [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
@@ -50,7 +49,7 @@ Slides for each lecture will be attached to a README.md file within each module 
 Office hours will take place via Zoom on Wednesdays at **TBD**. The zoom link will be shared internally with the class on our slack!
 
 ## Where can I access assignments?
-You will be able to find all homework assignments for this course on the github, in the `hw` directory. Exams materials will be shared via Gradescope. You will also be able to find all of the necessary materials for each assignment on the UCSD Jupyterhub (Data Science) Platform if you're officially enrolled. The Jupyterhub can be found here: https://datahub.ucsd.edu/hub/login.
+You will be able to find all homework assignments for this course on the github, in the `hw` directory. Exams materials will be shared via Gradescope. You will also be able to find all of the necessary materials for each assignment on the UCSD Jupyterhub (Data Science) Platform if you're officially enrolled. The Jupyterhub can be found here: https://datahub.ucsd.edu/hub/login
 
 ## How can I submit assignments?
 We'll be using Gradescope for submitting the homework assignments, as well as the midterm and final exams. If you have not been added to the course, to sign up for Gradescope, please follow the steps outlined below:
@@ -85,7 +84,7 @@ If for whatever reason you cannot deliver an assignment by its associated due da
 ### What's the policy on regrades?
 We recognize that small mistakes can sometimes propagate into large points deductions on assignments. When grading, we try to award partial credit whenever possible. However, for students that submit homework assignments with large mistakes, we will allow **one homework regrade** throughout the quarter for full credit back. 
 
-In order to qualify for a regrade, a student must score below 70% on the assignment and they must resubmit within one week of when the assignment's grades were published. 
+In order to qualify for a regrade, a student must score below 80% on the assignment and they must resubmit within one week of when the assignment's grades were published. 
 
 ### What's the grading breakdown?
 | Percentage | Category      |
@@ -114,9 +113,9 @@ Participation grades will be given based off of attendance, class participation,
 This course is designed to be highly interactive, so we greatly appreciate your participation and engagement with the material and class sessions. We would like to show respect for all instructors, especially those volunteering their time to be guest lecturers, by engaging with their content.
 
 ### Surveys
-Please fill out our survey at the end of each week. We really value your feedback! It helps us improve the modules each year.
+There will be a survey posted to Canvas at the end of each week. Please fill them out by Sun at 11:59 pm. We really value your feedback! It helps us improve the modules each year.
 
-**Survey link:** **Link**
+We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% from your participation grade for every additional survey (beyond the first three) that are submitted late.
 
 ## What's the policy on collaboration and plagiarism?
 Plagiarism will not be tolerated. Do not copy and paste answers from the internet, and make sure all answers on homework and exams are completely in your own words.
@@ -126,7 +125,7 @@ Questions may be discussed with classmates but all work must be done individuall
 ## What's the policy on contacting the course instructors and TAs?
 Please use office hours for questions regarding the homework assignments or take-home exams. It can be difficult, especially with code and software, to troubleshoot your problems via email or slack. If you are unable to attend office hours, you are welcome to contact the TAs with your questions via email or slack. 
 
-> :warning: **Note:** Please make sure to include _all_ TAs in your correspondences so we can ensure that you get help as soon as possible and that workload is distributed evenly among the TAs.<br>
+> :warning: **Note:** Please make sure to include _all_ TAs in your correspondences so we can ensure that you get help as soon as possible.<br>
 > If you must email or slack regarding a question, please do not expect an response unless it is within working hours (Monday-Friday, 8:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
 
 ## What's the course schedule?
