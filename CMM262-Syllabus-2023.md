@@ -32,7 +32,7 @@ In addition, it is **absolutely crucial** that students have at least some intro
 
 Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to gauge the level of programming experienced required. If you think you might need to refresh yourself, here are some resources:
 - [A book introducing R for data scientists](https://r4ds.had.co.nz/)
-- [A crash-course book for python](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf)
+- [A crash-course book for python](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
 
 ## Where can I attend class?
@@ -126,7 +126,7 @@ Questions may be discussed with classmates but all work must be done individuall
 Please use office hours for questions regarding the homework assignments or take-home exams. It can be difficult, especially with code and software, to troubleshoot your problems via email or slack. If you are unable to attend office hours, you are welcome to contact the TAs with your questions via email or slack. 
 
 > :warning: **Note:** Please make sure to include _all_ TAs in your correspondences so we can ensure that you get help as soon as possible.<br>
-> If you must email or slack regarding a question, please do not expect an response unless it is within working hours (Monday-Friday, 8:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
+> If you must email or slack regarding a question, please do not expect a response unless it is within working hours (Monday-Friday, 8:00 AM - 8:00 PM PST), otherwise, there is no guarantee you will receive a response.
 
 ## What's the course schedule?
 You can find the schedule of what we'll be covering day-by-day at the following Google Sheets link:
@@ -136,7 +136,7 @@ https://docs.google.com/spreadsheets/d/1s-kjGqblJmk4cW-RhUNh_JHS_vk_nCP9CumVm6Js
 ## What if I can't log into DataHub?
 Try the suggestions in this doc and see if they help:
 
-https://docs.google.com/document/d/1GJpt8vLCDAzCVMrEfm8c-vFst2B8wR3Mj-m3058q8Mw
+https://docs.google.com/document/d/1OXpPzo50UU_bUY6mrmZ5gNq7_jjD1nUEP1Rw3jkHQmw
 
 ## Will I lose access to DataHub after the course is over?
 You will lose access to DataHub at the end of the spring quarter of this year, but you can download all of your materials before that happens! Follow these [instructions](https://docs.google.com/document/d/1kquyVU-8bKfQFfwDykjb_b1YIFMSfc01PcOwyW_uh-A) to retain access to all of your work.
