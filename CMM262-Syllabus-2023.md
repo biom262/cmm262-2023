@@ -104,6 +104,10 @@ Letter grades are assigned based on the following scale:
 | B+	  | 87%               |
 | B 	  | 83%               |
 | B-	  | 80%               |
+| C+    | 77%               |
+| C     | 73%               |
+| C-    | 70%               |
+| D     | 60%               |
 | F 	  | 0%                |
 
 ## Participation
