@@ -117,7 +117,7 @@ Participation grades will be given based off of attendance, class participation,
 This course is designed to be highly interactive, so we greatly appreciate your participation and engagement with the material and class sessions. We would like to show respect for all instructors, especially those volunteering their time to be guest lecturers, by engaging with their content.
 
 ### Surveys
-There will be a survey posted to Canvas at the end of each week. Please fill them out by Sun at 11:59 pm. We really value your feedback! It helps us improve the modules each year.
+There will be a survey posted to Canvas at the end of each week. Please fill them out by Thurs at 11:59 pm. We really value your feedback! It helps us improve the modules each year.
 
 We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% from your participation grade for every additional survey (beyond the first three) that are submitted late.
 
