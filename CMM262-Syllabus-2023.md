@@ -2,7 +2,6 @@
 **University of California, San Diego (UCSD)**<br>
 **Winter 2023**
 
-<!-- ![slack badge](https://img.shields.io/badge/Join%20Slack-blueviolet?style=for-the-badge&logo=slack) -->
 [![jupyterhub badge](https://img.shields.io/badge/Login%20to%20JupyterHub-grey?style=for-the-badge&logo=jupyter)](https://datahub.ucsd.edu/hub/login)
 
 ## What's this course about?
@@ -23,7 +22,7 @@ As each module is taught by a separate guest lecturer, their contact information
 
 https://docs.google.com/spreadsheets/d/1s-kjGqblJmk4cW-RhUNh_JHS_vk_nCP9CumVm6JsTSI
 
-> :warning: **Note:** We will be using Slack as our primary method of communication for this course!<br>You can join our group using the Slack button at the top of this page.
+> :warning: **Note:** We will be using Slack as our primary method of communication for this course!<br>You can join our group using the Slack link sent out in our first Canvas announcement.
 
 ## Course prerequisites
 Students should have at least an introductory knowledge of genetics, so classes in genetics are listed as official prerequisites for the course.
@@ -41,12 +40,12 @@ Classes are on Tuesday and Thursday from 9:00 AM - 12:00 PM PST.
 ![Screen Shot 2022-12-13 at 9 49 44 PM](https://user-images.githubusercontent.com/67065808/207517846-9740f244-e6e3-4bb0-a7a0-605b690b8013.png)
 
 ## Will lectures be recorded?
-You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n?usp=sharing
+You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n?usp=sharing. Lecture recordings for each week will be posted on Friday morning.
 
 Slides for each lecture will be attached to a README.md file within each module folder.
 
 ## When are office hours?
-Office hours will take place via Zoom on Wednesdays at **TBD**. The zoom link will be shared internally with the class on our slack!
+Office hours will take place via Zoom at **TBD**. The zoom link will be shared internally with the class on our slack!
 
 ## Where can I access assignments?
 You will be able to find all homework assignments for this course on the github, in the `hw` directory. Exams materials will be shared via Gradescope. You will also be able to find all of the necessary materials for each assignment on the UCSD Jupyterhub (Data Science) Platform if you're officially enrolled. The Jupyterhub can be found here: https://datahub.ucsd.edu/hub/login
@@ -66,17 +65,14 @@ Homework will be assigned on Thursdays and due on the following Thursday through
 
 ### When's the midterm and final?
 * **Midterm Examination:**
-  * Released on **TBD**
-  * Submission via Gradescope on **TBD** by 9:00 AM PST
+  * Released on **2/16/23**
+  * Submission via Gradescope on **2/23/23** by 9:00 AM PST
 * **Final Examination:**
-  * Released on **TBD**
-  * Submission via Gradescope on **TBD** by 11:59 PM PST
+  * Released on **3/14/23**
+  * Submission via Gradescope on **3/21/23** by 11:59 PM PST
 
 ### What's the policy on late submissions?
-If for whatever reason you cannot deliver an assignment by its associated due date, you should inform the course instructor and TAs at least a day before the due date.
-
-* **First Late Submission:** 10% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.
-* **Subsequent Late Submissions:** 20% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.
+If for whatever reason you cannot deliver an assignment by its associated due date, you should inform the course instructor and TAs at least a day before the due date. **For each late submission 10% of the maximal number of points is deducted for every day or part of a day that an assignment is handed in late.**
 
 > **Note:** We know that things happen!<br>
 > If you're experiencing a health or family emergency, please let the course instructors and teaching assistants know and we can work something out!
@@ -117,9 +113,9 @@ Participation grades will be given based off of attendance, class participation,
 This course is designed to be highly interactive, so we greatly appreciate your participation and engagement with the material and class sessions. We would like to show respect for all instructors, especially those volunteering their time to be guest lecturers, by engaging with their content.
 
 ### Surveys
-There will be a survey posted to Canvas at the end of each week. Please fill them out by Thurs at 11:59 pm. We really value your feedback! It helps us improve the modules each year.
+There will be a feedback survey posted to Canvas each week. Please fill them out by Thurs at 11:59 pm. We really value your feedback! It helps us improve the modules each year.
 
-We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% from your participation grade for every additional survey (beyond the first three) that are submitted late.
+We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% of your participation grade for every additional survey (beyond the first three) that are submitted late.
 
 ## What's the policy on collaboration and plagiarism?
 Plagiarism will not be tolerated. Do not copy and paste answers from the internet, and make sure all answers on homework and exams are completely in your own words.
