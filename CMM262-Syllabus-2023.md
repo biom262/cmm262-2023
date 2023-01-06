@@ -17,8 +17,8 @@ CMM262/BIOM262 is designed to teach experimental and analytical approaches in mo
 **Teaching Assistant 3:** Daniella Vo (dtv004@ucsd.edu)<br>
 **Teaching Assistant 4:** Jeff Jaureguy (jjauregu@ucsd.edu)<br>
 
-### Guest Lecturers
-As each module is taught by a separate guest lecturer, their contact information is provided in the syllabus table at the following Google Sheets link:
+### Lecturers
+As each module is taught by a separate lecturer, their contact information is provided in the syllabus table at the following Google Sheets link:
 
 https://docs.google.com/spreadsheets/d/1s-kjGqblJmk4cW-RhUNh_JHS_vk_nCP9CumVm6JsTSI
 
