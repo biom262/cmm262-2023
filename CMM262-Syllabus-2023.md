@@ -29,7 +29,7 @@ Students should have at least an introductory knowledge of genetics, so classes 
 
 In addition, it is **absolutely crucial** that students have at least some introductory experience with a programming language, preferably R or python. During the first week of class, we will review R, python, and bash. But after the first week, we'll immediately dive into complex usage of all three. Thus, the first week should serve more as a review than a comprehensive tutorial.
 
-Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to gauge the level of programming experienced required. If you think you might need to refresh yourself, here are some resources:
+Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to gauge the level of programming experience required. If you think you might need to refresh yourself, here are some resources:
 - [A book introducing R for data scientists](https://r4ds.had.co.nz/)
 - [A crash-course book for python](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
