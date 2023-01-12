@@ -29,7 +29,7 @@ Students should have at least an introductory knowledge of genetics, so classes 
 
 In addition, it is **absolutely crucial** that students have at least some introductory experience with a programming language, preferably R or python. During the first week of class, we will review R, python, and bash. But after the first week, we'll immediately dive into complex usage of all three. Thus, the first week should serve more as a review than a comprehensive tutorial.
 
-Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to gauge the level of programming experienced required. If you think you might need to refresh yourself, here are some resources:
+Take a look at [our course material from last year](https://github.com/biom262/cmm262-2022) to gauge the level of programming experience required. If you think you might need to refresh yourself, here are some resources:
 - [A book introducing R for data scientists](https://r4ds.had.co.nz/)
 - [A crash-course book for python](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [A book that explains how to use data science libraries in python](https://wesmckinney.com/book/)
@@ -113,7 +113,7 @@ Participation grades will be given based off of attendance, class participation,
 This course is designed to be highly interactive, so we greatly appreciate your participation and engagement with the material and class sessions. We would like to show respect for all instructors, especially those volunteering their time to be guest lecturers, by engaging with their content.
 
 ### Surveys
-There will be a feedback survey posted to Canvas each week. Please fill them out by Thurs at 11:59 pm. We really value your feedback! It helps us improve the modules each year.
+There will be a feedback survey posted to Canvas on Thurs at 9:00 am each week. Please fill them out by the next Tues at 9:00 am. We really value your feedback! It helps us improve the modules each year.
 
 We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% of your participation grade for every additional survey (beyond the first three) that are submitted late.
 
