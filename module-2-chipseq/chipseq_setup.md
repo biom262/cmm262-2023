@@ -1,3 +1,11 @@
+# Installing `ssh`
+If you are a Mac or Linux user, just ignore this section, since you will probably already have `ssh` installed. Otherwise, if you use Windows, you can:
+1. First, check whether `ssh` is installed. Open your terminal (aka "Command Prompt") and type `ssh`. If you get a message that says the command is not recognized, you will need to follow the rest of these steps because `ssh` is not already installed on your computer.
+2. Click on the Start Menu and search for "features". Select the option that opens the settings for "Apps & features".
+3. Next, click on "Optional features" and then "Add a feature" and search for "OpenSSH Client". Install it and you should be set to go.
+
+Alternatively, you can [install Linux on your Windows machine using WSL](https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command) and use the `ssh` client that comes with it. I also recommend installing the [new Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install).
+
 # Installing IGV (Integrative Genomics Viewer)
 
 1. Navigate to the IGV [download page](https://software.broadinstitute.org/software/igv/download) and either choose download steps 1. or 2., depending if you're a Mac or Windows user (we want to have a local version). You may need to install Java if you do not have it already (follow instructions on IGV link)."
