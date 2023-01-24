@@ -2,8 +2,8 @@
 Within this module, we'll be covering some of the basic concepts that you would find in an introductory statistics course, such as descriptive statistics and the normal distribution, along with providing an overview of data visualization and exploration.
 
 ## Presentation Slides
-* **Day 1:** https://drive.google.com/file/d/1TF4mBvi0WoHhgzQCspTJOinsv0xJZCIE
-* **Day 2:** [https://drive.google.com/file/d/1AH7Vm5kVKSnkEeTI9EELM-kMrV5scbh_](https://drive.google.com/file/d/1AH7Vm5kVKSnkEeTI9EELM-kMrV5scbh_)
+* **Day 1:** https://docs.google.com/presentation/d/1AHcVzZOeBUUNNlcliAS0KNFlGuaA4M_6
+* **Day 2:** https://docs.google.com/presentation/d/1mlE8DBja2RNX7xd--PPY4QwIspXNGGT0
 
 ## Lecture Recordings
 
