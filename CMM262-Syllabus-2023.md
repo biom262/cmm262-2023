@@ -37,8 +37,7 @@ Take a look at [our course material from last year](https://github.com/biom262/c
 ## Where can I attend class?
 Classes are on Tuesday and Thursday from 9:00 AM - 12:00 PM PST.
 <!-- Note: we should update this screenshot once we've decided on a date for the final and midterm -->
-<img width="759" alt="Screen Shot 2023-01-17 at 9 33 15 AM" src="https://user-images.githubusercontent.com/67065808/212972148-1c36cb4f-13cc-49aa-91e1-8dbde5ddbd57.png">
-
+<img width="759" alt="Screen Shot 2023-01-26 at 10 12 56 PM" src="https://user-images.githubusercontent.com/67065808/215021503-6b6d1ea7-6466-4f59-948e-6438da33b405.png">
 
 ## Will lectures be recorded?
 You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n?usp=sharing. Lecture recordings for each week will be posted on Friday morning.
