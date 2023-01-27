@@ -7,4 +7,4 @@ Within this module, we'll be covering some of the basic concepts that you would 
 ## Lecture Recordings
 
 * **Day 1 Lecture (January 24th, 2023):** https://drive.google.com/drive/folders/1PqF6OMBbB-18Wt9SZ-Vh1RVxb5uVZNZx
-* **Day 2 Lecture (January 16th, 2023):** 
+* **Day 2 Lecture (January 16th, 2023):** https://drive.google.com/file/d/1y6By-aVdXQgAwrTgXFzP2Ev-VgBH4b6h
