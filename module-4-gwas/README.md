@@ -7,6 +7,5 @@ Day 1: https://docs.google.com/presentation/d/1Q_0b13tzP61WiWZpnJRq6X26pUeU6Th2
 Day 2: https://docs.google.com/presentation/d/1Q_0b13tzP61WiWZpnJRq6X26pUeU6Th2
 
 ## Lecture Recordings
-* **Day 1 Lecture Part 1 (January 31st, 2023):** 
-* **Day 1 Lecture Part 2 (January 31st, 2023):** 
+* **Day 1 Lecture Part 1 (January 31st, 2023):** https://drive.google.com/file/d/1JGj29agTMkxrzBpjXGms6WfFbijS7cKc 
 * **Day 2 Lecture (February 2nd, 2023):** 
