@@ -14,5 +14,5 @@ ln -s ~/public/module-5-scrna-seq/data ~/module-5-scrnaseq/data
 ```
 
 ## Lecture Recordings
-* **Day 1 Lecture Part 1 (February 7th, 2023):** tbd
+* **Day 1 Lecture Part 1 (February 7th, 2023):** https://drive.google.com/file/d/15JrXeBW8YWZuoYWVnN7hak92Ar_chl3i
 * **Day 2 Lecture (February 9th, 2023):** tbd
