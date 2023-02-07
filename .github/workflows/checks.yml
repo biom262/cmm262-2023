@@ -15,4 +15,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }} # Optional
           filesizelimit: 1mb
           labelName: large-files
-          exclusionPatterns: *.ipynb
+          exclusionPatterns: |
+            **/*.png
+            **/*.jpg
+            **/*.jpeg
+            **/*.ipynb
