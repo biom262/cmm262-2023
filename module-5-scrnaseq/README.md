@@ -2,7 +2,9 @@
 This module covers single-cell RNA sequencing technologies and bioinformatics analyses, taught by Dr. Robert Morey.
 
 ## Presentation Slides
-Copies of the Lecture Slides can be found in the [Lecture](Lecture) directory.
+Copies of the Lecture Slides can be found on Google Drive:
+
+https://drive.google.com/drive/folders/1YE-ZPRzAhSHTPyr7UD5wkQIoJUTIQT07
 
 ## Datahub Copy Commands
 Please copy the materials for this module to your local directory using the following commands in the Datahub terminal:
