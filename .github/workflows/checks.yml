@@ -24,6 +24,8 @@ jobs:
     name: File names
     runs-on: ubuntu-latest
     steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
       - name: Check file names
         uses: Ana06/get-changed-files@v2.2.0
         with:
