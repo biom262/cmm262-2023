@@ -35,7 +35,7 @@ jobs:
         run: |
           for changed_file in ${{ steps.changed_files.outputs.added_modified_renamed }}; do
             if [[ ${changed_file} == *"key"* || ${changed_file} == *"KEY"* ]]; then
-              echo "Detected a potential answer key!"
+              echo "Detected a potential answer key! Are you sure you meant to commit ${changed_file} ?"
               exit 1
             fi
           done
