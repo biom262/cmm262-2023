@@ -5,4 +5,4 @@ This module covers spatial transcriptomics technologies and bioinformatics analy
 Copies of the Lecture Slides can be found on Google Drive: TBD
 
 ## Lecture Recordings
-* **Day 1 Lecture Part 1 (February 16th, 2023):** TBD
+* **Day 1 Lecture Part 1 (February 16th, 2023):** https://docs.google.com/presentation/d/1UDB8VBI2Qqd4PlkIkxJ7-fpR6wpKj8L4
