@@ -17,10 +17,10 @@ Check out [the course syllabus](CMM262-Syllabus-2023.md) for more details.
 | 1    | Jan 10  | **[Module 1](module-1-programming):** Programming Basics in Python, UNIX, and R  | TAs                                          | None                                       |
 | 2    | Jan 17  | **[Module 2](module-2-chipseq):** Chromatin and ChIP-Sequencing (ChIP-seq)       | Alon Goren                                   | None                                       |
 | 3    | Jan 24  | **[Module 3](module-3-statistics):** Introduction to Statistics                  | Graham McVicker                              | [Homework 1](hw/hw1) (due 2/2)            |
-| 4    | Jan 31  | **[Module 4](module-4-rnaseq):** RNA-Sequencing (RNA-seq)                        | Priya Pantham                                | None                                       |
+| 4    | Jan 31  | **[Module 4](module-4-gwas):** Genome-Wide Association Studies (GWAS)                        | Graham McVicker                              | None                                       |
 | 5    | Feb 7   | **[Module 5](module-5-scrnaseq):** Single-Cell RNA-Sequencing (scRNA-seq)        | Robert Morey                                 | [Homework 2](hw/hw2) (due 2/16)            |
 | 6    | Feb 14  | **[Module 6](module-6-spatialtx):** Image Processing and Spatial Transcriptomics | Johannes Schöneberg<br>Colin Kern + Quan Zhu | **Midterm** (due 2/23)                     |
-| 7    | Feb 21  | **[Module 7](module-7-gwas):** Genome-Wide Association Studies (GWAS)            | Graham McVicker                              | None             |
+| 7    | Feb 21  | **[Module 7](module-7-rnaseq):** RNA-Sequencing (RNA-seq)            | Priya Pantham                                | None             |
 | 8    | Feb 28  | **[Module 8](module-8-variantcalling):** Variant Calling                         | Kyle Gaulton                                 | [Homework 3](hw/hw3) (due 3/9)                                       |
 | 9    | Mar 7   | **[Module 9](module-9-networks):** Network Biology                               | Hannah Carter                                | None                                       |
 | 10   | Mar 14  | **[Module 10](module-10-popgen):** Population Genetics                           | Nicholas Schork<br>Andrew Schork             | None                                       |

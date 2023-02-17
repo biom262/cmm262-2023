@@ -1,0 +1,41 @@
+name: Checks
+
+on: [pull_request]
+
+jobs:
+  large-files:
+    name: File sizes
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+      - name: Check for large files
+        uses: actionsdesk/lfs-warning@v3.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Optional
+          filesizelimit: 1mb
+          labelName: large-files
+          exclusionPatterns: |
+            **/*.png
+            **/*.jpg
+            **/*.jpeg
+            **/*.ipynb
+  file-names:
+    name: File names
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+      - name: Get changed files
+        id: changed_files
+        uses: Ana06/get-changed-files@v2.2.0
+        with:
+          filter: "*.ipynb"
+      - name: Check file names
+        run: |
+          for changed_file in ${{ steps.changed_files.outputs.added_modified_renamed }}; do
+            if [[ ${changed_file} == *"key"* || ${changed_file} == *"KEY"* ]]; then
+              echo "Detected a potential answer key! Are you sure you meant to commit ${changed_file} ?"
+              exit 1
+            fi
+          done
