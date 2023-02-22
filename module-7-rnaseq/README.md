@@ -7,5 +7,5 @@ Within this module, we'll be covering some of the basic concepts of short-read s
 
 ## Lecture Recordings
 
-* **Day 1 Lecture (January 31, 2023):** 
-* **Day 2 Lecture (February 2, 2023):** 
+* **Day 1 Lecture (February 21, 2023):** https://drive.google.com/file/d/1myZqhqNHiQm4chFQV5crpZ1Q44pwE5Vf
+* **Day 2 Lecture (February 3, 2023):** 
