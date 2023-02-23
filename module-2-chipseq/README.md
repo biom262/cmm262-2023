@@ -10,4 +10,5 @@ Before the first day of lecture, students will need to install `ssh` and IGV loc
 ## Lecture Recordings
 
 * **Day 1 Lecture (January 17, 2023):** https://drive.google.com/file/d/1BH3R9hGP-9rusI5_JYwdB9G87a76tTiF
-* **Day 2 Lecture (January 19, 2023):** https://drive.google.com/file/d/1Ps5GnFTFmaNDZyxb9XDLuZzVJeBAfkVM
+* **Day 2 Lecture (January 19, 2023, problem with volume after 40mins):** https://drive.google.com/file/d/1Ps5GnFTFmaNDZyxb9XDLuZzVJeBAfkVM
+* **Day 2 Lecture(2022): ** https://drive.google.com/file/d/1NwXqfgubS2_rVwqRoBFvDCx8A3pOsUME
