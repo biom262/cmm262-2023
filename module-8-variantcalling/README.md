@@ -5,5 +5,5 @@ This module covers the basics of performing Variant Calling in sequencing datase
 
 ## Lecture Recordings
 
-* **Day 1 Lecture (February 28th, 2023):** 
+* **Day 1 Lecture (February 28th, 2023):** https://drive.google.com/file/d/1JTIYWqhAsuslsdJo0CSMhNpLfxVGm5yy/view?usp=share_link
 * **Day 2 Lecture (March 2nd, 2023):** 
