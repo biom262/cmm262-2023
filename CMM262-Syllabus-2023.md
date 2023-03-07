@@ -139,6 +139,6 @@ Try the suggestions in this doc and see if they help:
 https://docs.google.com/document/d/1OXpPzo50UU_bUY6mrmZ5gNq7_jjD1nUEP1Rw3jkHQmw
 
 ## Will I lose access to DataHub after the course is over?
-You will lose access to DataHub at the end of the spring quarter of this year, but you can download all of your materials before that happens! Follow these [instructions](https://docs.google.com/document/d/1kquyVU-8bKfQFfwDykjb_b1YIFMSfc01PcOwyW_uh-A) to retain access to all of your work.
+You will lose access to DataHub at the end of the spring quarter of this year, but you can download all of your materials before that happens! Follow [these instructions](https://docs.google.com/document/d/1cGuJBn8diZRlF-qj0iln5qq0oCE4os_MNM8A-fOIg3M) to retain access to all of your work.
 
 Alternatively, you can request an extension to your access [here](https://go.ucsd.edu/2wc5gH0%29).
