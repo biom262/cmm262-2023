@@ -9,6 +9,6 @@ Please note that the Exercise notebooks in this module were adapted from [this b
 
 ## Lecture Recordings
 
-* **February 15 (Day 1)** : TBD
+* **February 15 (Day 1)** : https://drive.google.com/file/d/1KFnGnuv2K_uMCGFHBTEtVjkLOT2OoYes
 * **February 17 (Day 2)** : TBD
 
