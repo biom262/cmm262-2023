@@ -5,10 +5,9 @@ Please note that the Exercise notebooks in this module were adapted from [this b
 
 > *Day 1 Presentation:* https://docs.google.com/presentation/d/1aDoRZcgSjIAHA5QqEYAFdj4UY7Dj3pgc
 > 
-> *Day 2 Presentation:* TBD
+> *Day 2 Presentation:* https://docs.google.com/presentation/d/1YX8bJvL8MgM05VDxuONDN5-LKchZj3zv
 
 ## Lecture Recordings
 
 * **February 15 (Day 1)** : https://drive.google.com/file/d/1KFnGnuv2K_uMCGFHBTEtVjkLOT2OoYes
 * **February 17 (Day 2)** : TBD
-
