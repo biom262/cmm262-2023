@@ -1,7 +1,8 @@
 # Population Genetics
 This module covers the basics of population genetics. It is taught by Dr. Nicholas Schork and Dr. Andrew Schork. 
 
-> *Presentation Slides:* located in the Lectures folder
+> *Day 1 Presentation:* https://docs.google.com/presentation/d/1KMVfzs0yhgoN8nqpFrwikLRulbe1rWYA/edit?usp=sharing&ouid=102134196267797631717&rtpof=true&sd=true
+
 
 ## Lecture Recordings
 
