@@ -40,12 +40,17 @@ Classes are on Tuesday and Thursday from 9:00 AM - 11:50 AM PST.
 <img width="759" alt="Screen Shot 2023-01-26 at 10 12 56 PM" src="https://user-images.githubusercontent.com/67065808/215021503-6b6d1ea7-6466-4f59-948e-6438da33b405.png">
 
 ## Will lectures be recorded?
-You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n?usp=sharing. Lecture recordings for each week will be posted on Friday morning.
+Lecture recordings for each week will be posted on Friday morning. You can find recordings of the lectures here: https://drive.google.com/drive/folders/1tzSEuG0XR0Jaz7Ilp7uiImW97z7IH55n
 
 Slides for each lecture will be attached to a README.md file within each module folder.
 
 ## When are office hours?
-Office hours will take place via Zoom at **TBD**. The zoom link will be shared internally with the class on our slack!
+Office hours usually take place via Zoom from 4-5 pm on Mondays. The zoom link will be shared internally with the class on our slack!
+
+Two Mondays this quarter will be holidays. During those weeks, office hours will be held on Wednesday at 4-5pm instead. This includes:
+> Wednesday: Jan 18th 4-5pm
+> 
+> Wednesday: Feb 22nd 4-5pm
 
 ## Where can I access assignments?
 You will be able to find all homework assignments for this course on the github, in the `hw` directory. Exams materials will be shared via Gradescope. You will also be able to find all of the necessary materials for each assignment on the UCSD Jupyterhub (Data Science) Platform if you're officially enrolled. The Jupyterhub can be found here: https://datahub.ucsd.edu/hub/login
@@ -115,7 +120,9 @@ This course is designed to be highly interactive, so we greatly appreciate your 
 ### Surveys
 There will be a feedback survey posted to Canvas on Thurs at 9:00 am each week. Please fill them out by the next Tues at 9:00 am. We really value your feedback! It helps us improve the modules each year.
 
-We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% of your participation grade for every additional survey (beyond the first three) that are submitted late.
+We will allot students at most three passes to submit surveys late, by the end of the quarter. We will subtract 5% from your participation grade for every additional survey (beyond the first three) that are submitted late.
+
+To receive late credit for a survey, you must submit it by March 17, 2023 at 11:59 pm.
 
 ## What's the policy on collaboration and plagiarism?
 Plagiarism will not be tolerated. Do not copy and paste answers from the internet, and make sure all answers on homework and exams are completely in your own words.
