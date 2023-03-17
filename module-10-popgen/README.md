@@ -11,5 +11,5 @@ This module covers the basics of population genetics. It is taught by Dr. Nichol
 ## Lecture Recordings
 
 * **Day 1 Lecture (March 14th, 2023):** https://drive.google.com/file/d/1SWHYujXv6XGJq11eXA-gJOGMbDCi2OUI/view?usp=share_link
-* **Day 2 Lecture (March 16th, 2023):** 
+* **Day 2 Lecture (March 16th, 2023):** https://drive.google.com/file/d/1qkc4o3B6kE1v-UvWhBMGQaulyTY_lIlr/view?usp=share_link
 
